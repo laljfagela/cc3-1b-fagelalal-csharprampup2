@@ -31,3 +31,24 @@ public class HelloWorld
     }
 }
 // still has error sa pagprint 
+
+using System;
+public class RightTriangle
+{
+    public static void Main(){
+        int i, j, rows; 
+        
+        Console.WriteLine("Right Triangle");
+        
+        Console.WriteLine("Input number of rows: ");
+        rows = Convert.ToInt32(Console.ReadLine()));
+        for(i=1; i <=rows;i++)
+        {
+            for(j=1;j<=i;j++)
+            Console.WriteLine("{0}", j, );
+            Console.WriteLine("\n");
+        }
+    }
+}
+
+// generates error 
