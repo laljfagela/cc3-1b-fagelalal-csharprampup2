@@ -1,0 +1,7 @@
+C:\Users\Luina Fagela\OneDrive\Documents\SESE UC\1ST YEAR 2ND SEM\CC3\PROGRAMS\C#RampUp\C#RampUp\obj\Debug\C#RampUp.csproj.AssemblyReference.cache
+C:\Users\Luina Fagela\OneDrive\Documents\SESE UC\1ST YEAR 2ND SEM\CC3\PROGRAMS\C#RampUp\C#RampUp\obj\Debug\C#RampUp.csproj.CoreCompileInputs.cache
+C:\Users\Luina Fagela\OneDrive\Documents\SESE UC\1ST YEAR 2ND SEM\CC3\PROGRAMS\C#RampUp\C#RampUp\bin\Debug\C#RampUp.exe.config
+C:\Users\Luina Fagela\OneDrive\Documents\SESE UC\1ST YEAR 2ND SEM\CC3\PROGRAMS\C#RampUp\C#RampUp\bin\Debug\C#RampUp.exe
+C:\Users\Luina Fagela\OneDrive\Documents\SESE UC\1ST YEAR 2ND SEM\CC3\PROGRAMS\C#RampUp\C#RampUp\bin\Debug\C#RampUp.pdb
+C:\Users\Luina Fagela\OneDrive\Documents\SESE UC\1ST YEAR 2ND SEM\CC3\PROGRAMS\C#RampUp\C#RampUp\obj\Debug\C#RampUp.exe
+C:\Users\Luina Fagela\OneDrive\Documents\SESE UC\1ST YEAR 2ND SEM\CC3\PROGRAMS\C#RampUp\C#RampUp\obj\Debug\C#RampUp.pdb
